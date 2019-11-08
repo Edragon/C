@@ -9,5 +9,7 @@ int main() {
 // compile
 // cmd /k gcc -o "$(CURRENT_DIRECTORY)\$(NAME_PART).exe" "$(FULL_CURRENT_PATH)" & pause & exit
 
+//gcc -o "$(CURRENT_DIRECTORY)\$(NAME_PART).exe" "$(FULL_CURRENT_PATH)" & pause & exit
+
 // run
 //cmd /k "$(CURRENT_DIRECTORY)\$(NAME_PART).exe"
