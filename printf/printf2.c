@@ -7,4 +7,7 @@ int main() {
 		char a = (char)i;
 		printf(" %i Char:   %c   \n", i, a);
 	}
+	
+	return 0;
 }
+
